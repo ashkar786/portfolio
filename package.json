@@ -1,0 +1,11 @@
+{
+  "name": "ashkar-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Ashkar — Website Developer",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": ["portfolio", "website-developer"],
+  "license": "MIT"
+}
